@@ -1,4 +1,4 @@
-# List Partitioner
+# partitionerTest
 
 List Partitioner is a Java implementation to split a given list of any type
 
