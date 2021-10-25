@@ -10,6 +10,11 @@ Use Github Clone Button or use the command bellow using this link [Github](https
 git clone https://github.com/AnisElarbi1/partitionerTest.git
 ```
 
+## Installation
+
+Clean and build the project, run the command:
+mvn install
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
