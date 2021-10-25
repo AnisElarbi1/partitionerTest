@@ -13,6 +13,7 @@ git clone https://github.com/AnisElarbi1/partitionerTest.git
 ## Run the project
 
 Clean and build the project, run the command:
+
 mvn install
 
 
