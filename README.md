@@ -10,7 +10,7 @@ Use Github Clone Button or use the command bellow using this link [Github](https
 git clone https://github.com/AnisElarbi1/partitionerTest.git
 ```
 
-## Installation
+## Run the project
 
 Clean and build the project, run the command:
 mvn install
